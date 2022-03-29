@@ -1,0 +1,26 @@
+alembic @ file:///home/conda/feedstock_root/build_artifacts/alembic_1647367721563/work
+APScheduler @ file:///Users/runner/miniforge3/conda-bld/apscheduler_1610113803686/work
+cachetools @ file:///home/conda/feedstock_root/build_artifacts/cachetools_1619593780156/work
+certifi==2021.10.8
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1636046181956/work
+click @ file:///Users/runner/miniforge3/conda-bld/click_1645238147229/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1647857874860/work
+greenlet @ file:///Users/runner/miniforge3/conda-bld/greenlet_1635836962116/work
+importlib-metadata @ file:///Users/runner/miniforge3/conda-bld/importlib-metadata_1647210449829/work
+importlib-resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1635615662634/work
+Mako @ file:///home/conda/feedstock_root/build_artifacts/mako_1646959760357/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1647364687869/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1635862544510/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/python-dotenv_1636649191224/work
+python-telegram-bot @ file:///home/conda/feedstock_root/build_artifacts/python-telegram-bot_1643840282783/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+pytz-deprecation-shim @ file:///Users/runner/miniforge3/conda-bld/pytz-deprecation-shim_1637074829745/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+SQLAlchemy @ file:///Users/runner/miniforge3/conda-bld/sqlalchemy_1646615410730/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1635819729986/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1647621564023/work
+tzlocal @ file:///Users/runner/miniforge3/conda-bld/tzlocal_1637088502798/work
+ujson @ file:///Users/runner/miniforge3/conda-bld/ujson_1640096110162/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1643828507773/work
